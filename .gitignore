@@ -1,0 +1,10 @@
+.devcontainer/
+myenv/
+*.pt
+sattellite/
+runs/
+.gitattributes
+*.png
+*.mp4
+*.jpg
+

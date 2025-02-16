@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+imageio
+ultralytics
+torch
+torchvision
+torchaudio
+imageio[ffmpeg]
+opencv-python-headless
