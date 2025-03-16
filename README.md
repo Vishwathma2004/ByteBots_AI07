@@ -19,7 +19,7 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/sea-trash-detection.git
+git clone https://github.com/Vishwathma2004/ByteBots_AI07.git
 cd sea-trash-detection
 ```
 
