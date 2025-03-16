@@ -142,7 +142,7 @@ class Inference:
                 self.org_frame.image(img, channels="BGR")  # Display original image
                 self.ann_frame.image(annotated_img, channels="BGR")  # Display annotated image
 
-        cv2.destroyAllWindows()  # Destroy window
+        cv2.destroyAllWindows()  # Destroy all windows
 
 
 if __name__ == "__main__":
